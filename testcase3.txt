@@ -1,0 +1,18 @@
+How many minutes should the simulation accept new calls?  1.3
+Duration set to: 1 minutes
+What is the probablity a call will arrive during a given minute (between 0.1 and 1.0)? 1
+Calls will arrive every 1 minute[s] on average
+-------------------------------
+Current Time Elapsed: 5 minutes
+Calls completed: 0
+Number of calls in the waiting list: 1
+-----------------------------------
+Total Number of calls entered: 1
+Total Number of calls Answered 1
+Total Simulation time: 6 minutes
+Total Average Wait Time: 5
+Priority 1 Wait Time: 5 minutes
+Priority 2 Wait Time: nan minutes
+Priority 3 Wait Time: nan minutes
+###############################
+End Simulation

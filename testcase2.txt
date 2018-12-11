@@ -1,0 +1,26 @@
+How many minutes should the simulation accept new calls?  adsgdg23
+invalid input
+How many minutes should the simulation accept new calls?  2dd
+Duration set to: 2 minutes
+What is the probability a call will arrive during a given minute (between 0.1 and 1.0)? dag
+invalid input
+What is the probablity a call will arrive during a given minute (between 0.1 and 1.0)? 33
+invalid input
+What is the probablity a call will arrive during a given minute (between 0.1 and 1.0)? 2
+invalid input
+What is the probablity a call will arrive during a given minute (between 0.1 and 1.0)? 0
+invalid input
+What is the probablity a call will arrive during a given minute (between 0.1 and 1.0)? -1
+invalid input
+What is the probablity a call will arrive during a given minute (between 0.1 and 1.0)? .1gg
+Calls will arrive every 10 minute[s] on average
+-----------------------------------
+Total Number of calls entered: 0
+Total Number of calls Answered 0
+Total Simulation time: 3 minutes
+Total Average Wait Time: nan
+Priority 1 Wait Time: nan minutes
+Priority 2 Wait Time: nan minutes
+Priority 3 Wait Time: nan minutes
+###############################
+End Simulation

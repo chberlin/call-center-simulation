@@ -1,0 +1,98 @@
+How many minutes should the simulation accept new calls?  33
+Duration set to: 33 minutes
+What is the probablity a call will arrive during a given minute (between 0.1 and 1.0)? 3.14 
+invalid input
+What is the probablity a call will arrive during a given minute (between 0.1 and 1.0)? 93 
+invalid input
+What is the probablity a call will arrive during a given minute (between 0.1 and 1.0)? .334
+Calls will arrive every 2 minute[s] on average
+-------------------------------
+Current Time Elapsed: 5 minutes
+Calls completed: 0
+Number of calls in the waiting list: 2
+-------------------------------
+Current Time Elapsed: 10 minutes
+Calls completed: 1
+Number of calls in the waiting list: 4
+-------------------------------
+Current Time Elapsed: 15 minutes
+Calls completed: 1
+Number of calls in the waiting list: 6
+-------------------------------
+Current Time Elapsed: 20 minutes
+Calls completed: 2
+Number of calls in the waiting list: 8
+-------------------------------
+Current Time Elapsed: 25 minutes
+Calls completed: 3
+Number of calls in the waiting list: 9
+-------------------------------
+Current Time Elapsed: 30 minutes
+Calls completed: 4
+Number of calls in the waiting list: 11
+-------------------------------
+Current Time Elapsed: 35 minutes
+Calls completed: 4
+Number of calls in the waiting list: 12
+-------------------------------
+Current Time Elapsed: 40 minutes
+Calls completed: 5
+Number of calls in the waiting list: 11
+-------------------------------
+Current Time Elapsed: 45 minutes
+Calls completed: 6
+Number of calls in the waiting list: 10
+-------------------------------
+Current Time Elapsed: 50 minutes
+Calls completed: 7
+Number of calls in the waiting list: 9
+-------------------------------
+Current Time Elapsed: 55 minutes
+Calls completed: 8
+Number of calls in the waiting list: 8
+-------------------------------
+Current Time Elapsed: 60 minutes
+Calls completed: 8
+Number of calls in the waiting list: 8
+-------------------------------
+Current Time Elapsed: 65 minutes
+Calls completed: 9
+Number of calls in the waiting list: 7
+-------------------------------
+Current Time Elapsed: 70 minutes
+Calls completed: 11
+Number of calls in the waiting list: 5
+-------------------------------
+Current Time Elapsed: 75 minutes
+Calls completed: 12
+Number of calls in the waiting list: 4
+-------------------------------
+Current Time Elapsed: 80 minutes
+Calls completed: 12
+Number of calls in the waiting list: 4
+-------------------------------
+Current Time Elapsed: 85 minutes
+Calls completed: 13
+Number of calls in the waiting list: 3
+-------------------------------
+Current Time Elapsed: 90 minutes
+Calls completed: 14
+Number of calls in the waiting list: 2
+-------------------------------
+Current Time Elapsed: 95 minutes
+Calls completed: 14
+Number of calls in the waiting list: 2
+-------------------------------
+Current Time Elapsed: 100 minutes
+Calls completed: 15
+Number of calls in the waiting list: 1
+-----------------------------------
+Total Number of calls entered: 16
+Total Number of calls Answered 16
+Total Simulation time: 104 minutes
+Total Average Wait Time: 39.375
+Priority 1 Wait Time: nan minutes
+Priority 2 Wait Time: 46.5 minutes
+Priority 3 Wait Time: 32.25 minutes
+###############################
+End Simulation
